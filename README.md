@@ -4,7 +4,7 @@
 [![GitHub adityatandon007](https://img.shields.io/github/followers/adityatandon007?label=follow&style=social)](https://github.com/adityatandon007)
 
 - 👋 Hi, I’m Aditya Tandon
-- 👀 I’m interested in Web Development and JavaScript
+- 👀 I provide frontend developement services with especialization in Vue.js.
 - 🌱 I’m currently learning everything
 - 📫 You can reach me at [email](mailto:adityatandon007@gmail.com)
 
@@ -21,7 +21,7 @@ const aditya = {
 ```
 <!--END_SECTION:waka-->
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+For Vue js consulting services, you can reach me at [email](mailto:craftedcanvasllc@gmail.com)
 
 <a href="https://www.buymeacoffee.com/adityatandon007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
