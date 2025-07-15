@@ -21,7 +21,7 @@ const aditya = {
 ```
 <!--END_SECTION:waka-->
 
-For Vue js consulting services through [Crafted Canvas](https://github.com/crafted-canvas), you can reach me at [email](mailto:craftedcanvasllc@gmail.com)
+For consulting services through [Crafted Canvas](https://github.com/crafted-canvas), you can reach me at [email](mailto:craftedcanvasllc@gmail.com)
 
 <a href="https://www.buymeacoffee.com/adityatandon007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
