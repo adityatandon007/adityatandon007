@@ -4,7 +4,7 @@
 [![GitHub adityatandon007](https://img.shields.io/github/followers/adityatandon007?label=follow&style=social)](https://github.com/adityatandon007)
 
 - 👋 Hi, I’m Aditya Tandon
-- 👀 I provide Frontend Developement services (specialization in Vue.js).
+- 👀 I provide Frontend Developement services (specialization in Vue.js, React.js).
 - 🌱 I’m currently learning everything
 - 📫 You can reach me at [email](mailto:adityatandon007@gmail.com)
 
